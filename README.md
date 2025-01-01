@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
 </head>
 <body style="background-color:PowderBlue;">
 <img src="https://i.imgur.com/HpJQeON_d.webp?maxwidth=760&fidelity=grand" alt="W3Schools.com" style="width:104px;height:142px;">
